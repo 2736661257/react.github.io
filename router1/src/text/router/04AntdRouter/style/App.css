@@ -1,0 +1,30 @@
+/*layout布局样式e*/
+.logo {
+    width: 120px;
+    height: 31px;
+    background: #00A9F7;
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  .menu {
+    
+    display: inline-table;
+  }
+
+/*走马灯样式*/
+  .ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+
+
